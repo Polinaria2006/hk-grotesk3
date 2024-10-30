@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "HKGrotesk-Black";
+    src: url("../font/HKGrotesk-Black.ttf") format("truetype");
+    font-weight: bold;
+    font-style: bold;
+}
+p{
+    font-family: "HKGrotesk-Black";
+}

@@ -1,0 +1,389 @@
+/* .odin{
+    width: 1440px;
+    height: 1635px;
+    background-color: black;
+}
+.dva{
+    height: 1334px;
+    width: 1179;
+    margin: 129px;
+    margin-top: 129px;
+    margin-bottom: 0px;
+}
+.tri{
+    width: 1440px;
+    height: 725px;
+    background-color: black;
+}
+.chet{
+    margin: 759px;
+    margin-top: -10.5%;
+}
+.pyat1{
+    width: 1440px;
+    height: 509.09px;
+    background-color: black;
+}
+.pyat{
+    margin: 470px;
+    margin-top: -560px;
+    transform: rotate(90deg);
+}
+.shest{
+    height: 3484px;
+    width: 1440px;
+    background-color: black;
+
+}
+.sem{
+    margin: 349px;
+    margin-top: 521px;
+}
+.vos{
+    height: 1427px;
+    width: 1145px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+} */
+
+body{
+    width: 1440px;
+    height: 13060px;
+    margin: 0 auto;
+    position: relative;
+    background-color: rgb(0, 0, 0);
+}
+
+/* блок 1 */
+.block_one{
+    width: 1180px;
+    height: 1497px;
+    color: rgb(0, 0, 0);
+}
+    .tarantino{
+    height: 1497px;
+    width: 1180px;
+    margin-top: 129px;
+    margin: 129px;
+}
+
+.bolshoy {
+    position: relative; /* Для использования отрицательного margin у второго блока */
+    margin-top: -97%; 
+    text-align: center;
+}
+.text1{
+    color: rgb(0, 0, 0);
+    font-size: 186px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* блок 2 */
+.plenka_iz_bukv{
+    position: relative;
+    margin: 20%;
+    margin-top: 91%;
+}
+.plenka_stoit{
+    position: relative;
+    margin: 55.9%;
+    margin-top: -70.8%;
+}
+.plenka_l{
+    margin: 62px;
+    margin-top: -56.7%;
+
+}
+
+
+/* .hkhk{
+    height: 174.67px;
+    width: 178.67px;
+    margin: 112px;
+    margin-top: 600px;
+} */
+.obvodka{
+    margin: 241px;
+    margin-top: -11.6%;
+}
+.leon{
+    width: 767.34px;
+    height: 1036.29px;
+    margin: 349px;
+    margin-top: -30%;
+}
+.hkhk{
+    height: 174.67px;
+    width: 178.67px;
+    margin: 112px;
+    margin-top: -800px;
+}
+
+.tri{
+    height: 316px;
+    width: 1076.19px;
+    margin: 260px;
+    margin-top: -200px;
+
+}
+
+.block1{
+    width: 1145px;
+    height: 1494.38px;
+    margin: 220px;
+    margin-top: -15%;
+}
+.plenka_lezhit2{
+    margin: 62px;
+    margin-top: -11%;
+
+}
+.ppp{
+    margin: 30px;
+    margin-top: -400px;
+
+}
+.text2{
+    color: rgb(255, 255, 255);
+    font-size: 64px;
+    margin: 66px;
+    margin-top: -400px;
+
+}
+.text3{
+    color: rgb(255, 255, 255);
+    font-size: 100px;
+    margin: 40px;
+    margin-top: -10px;
+
+}
+.text4{
+    color: rgb(255, 255, 255);
+    font-size: 215px;
+   
+    margin: 570px;
+    margin-top: -270px;
+
+
+}
+.text5{
+    color: rgb(255, 255, 255);
+    font-size: 74px;
+    margin: 480px;
+    margin-top: -570px;
+
+}
+.text6{
+    color: rgb(255, 255, 255);
+    font-size: 64px;
+    margin: 1150px;
+    margin-top: -755px;
+
+
+}
+.text7{
+color: rgb(255, 255, 255);
+    font-size: 91px;
+    margin: 1150px;
+    margin-top: -1100px;
+}
+.motok{
+    height: 1494.38px;
+    width: 1145px;
+    margin: 220px;
+    margin-top: -890px;
+}
+
+.z{
+    color: rgb(255, 255, 255);
+    font-size: 91px;
+    margin: 1100px;
+    margin-top: -1100px;
+
+
+}
+.a{
+    color: rgb(255, 255, 255);
+    font-size: 91px;
+    margin: 1000px;
+    margin-top: -1400px;
+}
+
+.e{
+    color: rgb(255, 255, 255);
+    font-size: 91px;
+    margin: 1150px;
+    margin-top: -1100px;
+}
+.o{
+    color: rgb(255, 255, 255);
+    font-size: 91px;
+    margin: 1150px;
+    margin-top: -1100px;
+}
+.E{
+    color: rgb(255, 255, 255);
+    font-size: 91px;
+    margin: 1150px;
+    margin-top: -1100px;
+}
+
+.plenka_lezhit3{
+    margin: 62px;
+    margin-top: -18%;
+}
+
+.text8{
+    color: rgb(255, 255, 255);
+    font-size: 64px;
+    margin: 66px;
+    margin-top: -400px;
+
+}
+.text9{
+    color: rgb(255, 255, 255);
+    font-size: 100px;
+    margin: 40px;
+    margin-top: -10px;
+
+}
+.text10{
+    color: rgb(255, 255, 255);
+    font-size: 215px;
+   
+    margin: 570px;
+    margin-top: -270px;
+
+
+}
+.text11{
+    color: rgb(255, 255, 255);
+    font-size: 74px;
+    margin: 480px;
+    margin-top: -570px;
+
+}
+.text12{
+    color: rgb(255, 255, 255);
+    font-size: 64px;
+    margin: 1150px;
+    margin-top: -755px;
+
+
+}
+.text13{
+color: rgb(255, 255, 255);
+    font-size: 91px;
+    margin: 1150px;
+    margin-top: -1100px;
+}
+.hk{
+    height: 1252px;
+    width: 1383.2px;
+    margin: 220px;
+    margin-top: -790px;
+}
+.text14{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    margin: 897px;
+    margin-top: -1500px;
+}
+.ot{
+    height: 156px;
+    width: 242px;
+    margin: 897px;
+    margin-top: -1500px;
+}
+
+.oa{
+    height: 86px;
+    width: 166px;
+    margin: 159px;
+    margin-top: 73.8%;
+
+}
+.vo{
+    height: 86px;
+    width: 247px;
+    margin: 660px;
+    margin-top: -17%;
+
+}
+.oz{
+    height: 86px;
+    width: 247px;
+    margin: 1120px;
+    margin-top: -63.7%;
+
+
+}
+.mo{
+    height:1483px;
+    width: 1143px;
+    margin: 62px;
+    margin-top: -85%;
+}
+.odin{
+    color: rgb(255, 255, 255);
+    font-size: 70px;
+    margin: 330px;
+    margin-top: -715px;
+
+
+}
+.dva{
+    color: rgb(255, 255, 255);
+    font-size: 70px;
+    margin: 330px;
+    margin-top: -246px;
+
+
+}
+.tri{
+    color: rgb(255, 255, 255);
+    font-size: 70px;
+    margin: 330px;
+    margin-top: -270px;
+
+
+}
+.chet{
+    color: rgb(255, 255, 255);
+    font-size: 129px;
+    margin: 370px;
+    margin-top: -520px;
+
+
+}
+.pyat{
+    color: rgb(255, 255, 255);
+    font-size: 129px;
+    margin: 680px;
+    margin-top: -500px;
+
+}
+.shest{
+    color: rgb(255, 255, 255);
+    font-size: 129px;
+    margin: 1060px;
+    margin-top: -810px;
+
+}
+.plenka_lezhit4{
+    margin: 62px;
+    margin-top: -58%;
+}
+.hse{
+    height: 166px;
+    width: 1312px;
+    margin: 70px;
+    margin-top: -330px;
+}
+
+
+
+  
